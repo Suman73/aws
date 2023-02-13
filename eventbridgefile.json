@@ -11,7 +11,7 @@
         "State": "ENABLED",
         "Targets": [{
           "Id": "Idcf5c2d5d-836c-4f8b-915c-91f5e1b79862",
-          "Arn": "arn:aws:lambda:ap-south-1:344542533384:function:snstest2"
+          "Arn": "arn:aws:lambda:ap-south-1:"account id":function:snstest2"
         }]
       }
     }
