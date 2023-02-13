@@ -1,0 +1,19 @@
+{
+  "AWSTemplateFormatVersion": "2010-09-09",
+  "Description": "CloudFormation template for EventBridge rule 'sns-cw-test'",
+  "Resources": {
+    "EventRule0": {
+      "Type": "AWS::Events::Rule",
+      "Properties": {
+        "EventBusName": "default",
+        "Name": "sns-cw-test",
+        "ScheduleExpression": "rate(5 minutes)",
+        "State": "ENABLED",
+        "Targets": [{
+          "Id": "Idcf5c2d5d-836c-4f8b-915c-91f5e1b79862",
+          "Arn": "arn:aws:lambda:ap-south-1:344542533384:function:snstest2"
+        }]
+      }
+    }
+  }
+}
