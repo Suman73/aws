@@ -1,0 +1,47 @@
+{
+  "Version": "2008-10-17",
+  "Id": "__default_policy_ID",
+  "Statement": [
+    {
+      "Sid": "__default_statement_ID",
+      "Effect": "Allow",
+      "Principal": {
+        "AWS": "*"
+      },
+      "Action": [
+        "SNS:Publish",
+        "SNS:RemovePermission",
+        "SNS:SetTopicAttributes",
+        "SNS:DeleteTopic",
+        "SNS:ListSubscriptionsByTopic",
+        "SNS:GetTopicAttributes",
+        "SNS:AddPermission",
+        "SNS:Subscribe"
+      ],
+      "Resource": "arn:aws:sns:ap-south-1:344542533384:mytopic",
+      "Condition": {
+        "StringEquals": {
+          "AWS:SourceOwner": "344542533384"
+        }
+      }
+    },
+    {
+      "Sid": "__console_pub_0",
+      "Effect": "Allow",
+      "Principal": {
+        "AWS": "*"
+      },
+      "Action": "SNS:Publish",
+      "Resource": "arn:aws:sns:ap-south-1:344542533384:mytopic"
+    },
+    {
+      "Sid": "__console_sub_0",
+      "Effect": "Allow",
+      "Principal": {
+        "AWS": "*"
+      },
+      "Action": "SNS:Subscribe",
+      "Resource": "arn:aws:sns:ap-south-1:344542533384:mytopic"
+    }
+  ]
+}
