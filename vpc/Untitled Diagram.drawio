@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T06:44:41.177Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="9vzFU5-ZSFoT29DLyK3J" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T06:46:45.822Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="MejHK9c7g5Pqybd4G2ZH" version="21.1.4" type="github">
   <diagram id="GNU3i8hCxYjH3E0Nk9u4" name="Page-1">
     <mxGraphModel dx="1736" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -208,6 +208,9 @@
         </mxCell>
         <mxCell id="KHf4qGFC3fC433MQe3-J-104" value="VPC flow log&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="350" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KHf4qGFC3fC433MQe3-J-105" value="Internet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="152.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FXCXVvDxTQtwc45PbP1s-115" value="Icons" style="" parent="0" />
       </root>
