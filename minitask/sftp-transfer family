@@ -1,0 +1,36 @@
+check
+Sftp using aws transfer family.
+Creating Iam role
+create server.
+Attach role.
+Create public key.
+server gets online.
+create user.
+access through endpoint
+download winscp
+{
+   "Version": "2012-10-17",
+   "Statement": [
+      {
+         "Sid": "VisualEditor0",
+         "Effect": "Allow",
+         "Action": [
+            "s3:PutObject",
+            "s3:GetObject",
+            "s3:ListBucket",
+            "s3:DeleteObject"
+         ],
+         "Resource": [
+            "arn:aws:s3:::spbk2023",
+            "arn:aws:s3:::spbk2023/*"
+         ]
+      }
+   ]
+}
+
+
+
+		
+
+
+
