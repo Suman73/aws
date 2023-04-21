@@ -1,0 +1,45 @@
+https://devops4solutions.com/monitoring-using-prometheus-and-grafana-on-aws-ec2/
+
+follow this guide fo installation of promitheus and node exporter 
+
+install grafana only manualy from official grafana document
+https://grafana.com/docs/grafana/latest/setup-grafana/installation/debian/
+note: please do not install enterprice version ..recommended
+
+
+trouble shooting: reinstalling grafana
+{
+ 150  sudo apt purge grafana
+  151  sudo rm -rf /etc/grafana/ /var/lib/grafana/ /var/log/grafana/
+  152  sudo systemctl status grafana-server.service
+  153  sudo systemctl stop grafana-server.service
+  154  sudo systemct; daemon-reload
+  155  sudo systemctl daemon-reload
+  156  sudo systemctl status grafana-server.service
+  157  sudo apt-get install -y apt-transport-https
+  158  echo "deb [signed-by=/usr/share/keyrings/grafana.key] https://apt.grafana.com stable main" | sudo tee -a /etc/apt/sources.list.d/grafana.list
+  159  sudo apt-get update
+  160  sudo apt-get install grafana
+  161  sudo systemctl status grafana-server.service
+  162  sudo systemctl start grafana-server.service
+  163  sudo systemctl status grafana-server.service
+  164  ls
+  165  cd prometheus-monitoring/
+  166  ls
+  167  nano prometheus.yml
+  168  cd /etc/prometheus/prometheus.yml
+  169  nano /etc/prometheus/prometheus.yml
+  170*
+  171  nano /etc/prometheus/prometheus.yml
+  172  sudo systemctl restart prometheus
+  173  sudo systemctl status prometheus
+  174  sudo systemctl restart prometheus
+  175  sudo systemctl status prometheus
+  176  sudo systemctl restart grafana-server
+}
+
+
+
+Please note the configuration file of protheus carefully &  check ip address
+
+Thank you happy learning
