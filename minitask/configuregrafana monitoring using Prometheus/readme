@@ -7,6 +7,8 @@ https://grafana.com/docs/grafana/latest/setup-grafana/installation/debian/
 note: please do not install enterprice version ..recommended
 
 
+#you can see the visual image after setup completed in parent directory
+
 trouble shooting: reinstalling grafana
 {
  150  sudo apt purge grafana
@@ -43,3 +45,5 @@ trouble shooting: reinstalling grafana
 Please note the configuration file of protheus carefully &  check ip address
 
 Thank you happy learning
+
+
