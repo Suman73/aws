@@ -1,0 +1,1 @@
+DeleteMultipleEc2AmiSnapshotatoneusingLambda
