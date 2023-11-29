@@ -68,3 +68,29 @@ def lambda_handler(event, context):
         'statusCode': 200,
         'body': f'AMI cleanup completed successfully'
     }
+
+#Inline IAM Json Policy
+"""
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "ec2:CreateImage",
+                "ec2:CreateTags",
+                "ec2:DescribeImages",
+                "ec2:DeregisterImage",
+                "ec2:DeleteSnapshot"
+            ],
+            "Resource": "*"
+        }
+    ]
+}
+"""
+
+
+
+
+
+
