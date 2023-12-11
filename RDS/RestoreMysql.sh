@@ -12,7 +12,7 @@ sudo apt-get install -y mysql-client
 mysql -h endpoint -u admin -p
 
 # Download SQL file from S3 bucket
-aws s3 cp s3://ccldev-s3-upload/cprmse_bill_tracking.sql /tmp/
+aws s3 cp s3:path /tmp/
 
 # Create a new database
 CREATE DATABASE dbname;
@@ -25,7 +25,7 @@ GRANT ALL PRIVILEGES ON dbname.* TO 'username'@'%';
 FLUSH PRIVILEGES;
 
 # Import data into the database from the SQL file
-mysql -h endpoint -u username -p -D dbname < /tmp/cprmse_bill_tracking.sql
+mysql -h endpoint -u username -p -D dbname < /tmp/example.sql
 
 # Clean up: Remove the temporary SQL file
 rm /tmp/cprmse_bill_tracking.sql
