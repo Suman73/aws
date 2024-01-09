@@ -1,0 +1,155 @@
+AWS Service Demo	Workshop Links	Service Links	Ownership
+Managed Streaming for kafka	https://catalog.workshops.aws/msk-labs/en-US	"https://aws.amazon.com/msk/features/
+https://docs.aws.amazon.com/msk/latest/developerguide/what-is-msk.html"	App BI Team
+Managed Streaming for kafka	Same as above	https://docs.aws.amazon.com/msk/latest/developerguide/serverless.html	App BI Team
+Managed Streaming for kafka	Same as above	https://docs.aws.amazon.com/msk/latest/developerguide/msk-connect.html	App BI Team
+OpenSearch	https://catalog.us-east-1.prod.workshops.aws/workshops/60a6ee4e-e32d-42f5-bd9b-4a2f7c135a72/en-US	"https://aws.amazon.com/opensearch-service/faqs/#Multi-AZ_with_Standby
+https://docs.aws.amazon.com/opensearch-service/latest/developerguide/managedomains-multiaz.html"	App BI Team
+OpenSearch	Same as above	"https://aws.amazon.com/opensearch-service/faqs/#Administration
+https://docs.aws.amazon.com/opensearch-service/latest/developerguide/managedomains-snapshots.html
+"	App BI Team
+OpenSearch	Same as above	https://docs.aws.amazon.com/opensearch-service/latest/developerguide/sql-support.html	App BI Team
+OpenSearch	Same as above	"https://docs.aws.amazon.com/opensearch-service/latest/developerguide/encryption-at-rest.html
+https://docs.aws.amazon.com/opensearch-service/latest/developerguide/ntn.html"	App BI Team
+ElastiCache Redis	https://aws.amazon.com/getting-started/hands-on/building-fast-session-caching-with-amazon-elasticache-for-redis/	https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/WhatIs.html	App BI Team
+ElastiCache Redis	Same as above	"https://aws.amazon.com/elasticache/redis-features/#Scalability
+https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/Clusters.html
+https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/Shards.html
+https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/CacheNodes.NodeGroups.html
+"	App BI Team
+ElastiCache Redis	Same as above	https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/AutoScaling.html	App BI Team
+ElastiCache Redis	Same as above	https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/Redis-Global-Datastore.html	App BI Team
+Lake Formation	https://catalog.us-east-1.prod.workshops.aws/workshops/78572df7-d2ee-4f78-b698-7cafdb55135d/en-US	"https://aws.amazon.com/lake-formation/features/
+https://aws.amazon.com/lake-formation/faqs/#Security_and_governance"	App BI Team
+Textract	Demo from AWS textract Console	https://docs.aws.amazon.com/textract/latest/dg/what-is.html1	App BI Team
+Rekognition	Demo from AWS Rekognition Console	https://docs.aws.amazon.com/rekognition/latest/dg/what-is.html	App BI Team
+Translate	Demo from AWS translate Console	"https://docs.aws.amazon.com/translate/latest/dg/what-is.html
+https://docs.aws.amazon.com/translate/latest/dg/sync.html"	App BI Team
+DocumentDB	https://catalog.us-east-1.prod.workshops.aws/workshops/464d6c17-9faa-4fef-ac9f-dd49610174d3/en-US	https://docs.aws.amazon.com/documentdb/latest/developerguide/compatibility.html	DB Team
+DocumentDB	Same as above	https://docs.aws.amazon.com/documentdb/latest/developerguide/backup_restore-copy_cluster_snapshot.html	DB Team
+DocumentDB	Same as above	https://docs.aws.amazon.com/documentdb/latest/developerguide/role_based_access_control.html	DB Team
+DocumentDB	Same as above	https://docs.aws.amazon.com/documentdb/latest/developerguide/docdb-using-elastic-clusters.html	DB Team
+DocumentDB	Same as above	"https://www.amazonaws.cn/en/documentdb/features/
+https://docs.aws.amazon.com/documentdb/latest/developerguide/db-instance-maintain.html
+https://docs.aws.amazon.com/documentdb/latest/developerguide/db-cluster-fault-tolerance.html"	DB Team
+DocumentDB	Same as above	https://docs.aws.amazon.com/documentdb/latest/developerguide/db-cluster-manage-performance.html#db-cluster-manage-scaling-storage	DB Team
+DocumentDB	Same as above	https://docs.aws.amazon.com/documentdb/latest/developerguide/encryption-at-rest.html	DB Team
+DocumentDB	Same as above	"https://docs.aws.amazon.com/documentdb/latest/developerguide/backup_restore-compare_automatic_manual_snapshots.html
+https://docs.aws.amazon.com/documentdb/latest/developerguide/backup_restore-point_in_time_recovery.html"	DB Team
+RDS PostgreSQL	https://catalog.us-east-1.prod.workshops.aws/workshops/2a5fc82d-2b5f-4105-83c2-91a1b4d7abfe/en-US	"https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_MultiAZDBCluster_ReadRepl.html"	DB Team
+RDS PostgreSQL	Same as above	"https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_WorkingWithAutomatedBackups.html
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_CreateSnapshot.html"	DB Team
+RDS PostgreSQL	Same as above	"https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.Concepts.VersionMgmt.html
+html
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.Encryption.html
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.SSL.html"	DB Team
+RDS PostgreSQL	Same as above	"https://docs.aws.amazon.com/AmazonRDS/latest/PostgreSQLReleaseNotes/postgresql-release-calendar.html
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.Encryption.html
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.SSL.html"	DB Team
+RDS PostgreSQL	Same as above	"https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MariaDB.Concepts.VersionMgmt.html
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.Encryption.html
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.SSL.html"	DB Team
+RDS PostgreSQL	Same as above	https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_UpgradeDBInstance.Maintenance.html	DB Team
+RDS PostgreSQL	Same as above	https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.DBInstance.Modifying.html	DB Team
+RDS PostgreSQL	Same as above	https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_PIOPS.StorageTypes.html#USER_PIOPS.Autoscaling	DB Team
+RDS PostgreSQL	Same as above	https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_WorkingWithAutomatedBackups.html	DB Team
+RDS PostgreSQL	Same as above	"https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_PIT.html
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-pitr.html"	DB Team
+Redshift	https://catalog.workshops.aws/redshift-immersion/en-US	"https://aws.amazon.com/redshift/features/?nc=sn&loc=2&dn=1
+https://aws.amazon.com/redshift/faqs/#Data_ingestion_and_loading"	DB Team
+Redshift	Same as above	"https://aws.amazon.com/redshift/faqs/#Scalability_and_concurrency
+https://docs.aws.amazon.com/redshift/latest/mgmt/managing-cluster-operations.html"	DB Team
+Redshift	Same as above	https://docs.aws.amazon.com/redshift/latest/dg/t_Creating_tables.html	DB Team
+Redshift	Same as above	https://docs.aws.amazon.com/redshift/latest/dg/query-super.html	DB Team
+Redshift	Same as above	https://docs.aws.amazon.com/redshift/latest/dg/machine_learning_overview.html	DB Team
+DynamoDB	https://amazon-dynamodb-labs.com/	https://aws.amazon.com/dynamodb/features/	DB Team
+DynamoDB	Same as above	https://aws.amazon.com/dynamodb/features/	DB Team
+DynamoDB	Same as above	https://aws.amazon.com/dynamodb/features/	DB Team
+DynamoDB	Same as above	https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/EncryptionAtRest.html	DB Team
+DynamoDB	Same as above	https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/PointInTimeRecovery.html	DB Team
+DynamoDB	Same as above	https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DAX.html	DB Team
+DMS	https://catalog.workshops.aws/migrationimmersionday/en-US/rehost/dms	"https://aws.amazon.com/dms/features/
+https://docs.aws.amazon.com/dms/latest/sbs/dms-sbs-welcome.html"	DB Team
+EKS	https://www.eksworkshop.com/	https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html	DevOps Team
+EKS	Same as above	https://docs.aws.amazon.com/eks/latest/userguide/eks-optimized-amis.html	DevOps Team
+EKS	Same as above	"https://docs.aws.amazon.com/eks/latest/userguide/configuration-vulnerability-analysis.html
+https://aws.amazon.com/blogs/containers/introducing-cis-amazon-eks-benchmark/
+"	DevOps Team
+EKS	Same as above	"https://aws.amazon.com/eks/features/#Managed_Cluster_Updates
+https://docs.aws.amazon.com/eks/latest/userguide/update-cluster.html"	DevOps Team
+EKS	Same as above	"https://docs.aws.amazon.com/eks/latest/userguide/manage-secrets.html
+https://docs.aws.amazon.com/secretsmanager/latest/userguide/integrating_csi_driver.html"	DevOps Team
+Lambda	https://catalog.us-east-1.prod.workshops.aws/workshops/66943748-f648-4a43-8b44-da8cfcc53286/en-US	https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html	DevOps Team
+Lambda	Same as above	https://docs.aws.amazon.com/lambda/latest/dg/configuration-versions.html	DevOps Team
+Lambda	Same as above	https://docs.aws.amazon.com/lambda/latest/dg/lambda-deploy-functions.html	DevOps Team
+GuardDuty		https://aws.amazon.com/guardduty/features/#Continuous_monitoring_across_AWS_accounts_without_added_cost_and_complexity	DevOps Team
+GuardDuty		"https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_findings_cloudwatch.html
+https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_exportfindings.html"	DevOps Team
+GuardDuty		"https://aws.amazon.com/guardduty/features/#Threat_severity_levels_for_efficient_prioritization
+https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_findings.html"	DevOps Team
+GuardDuty		https://docs.aws.amazon.com/guardduty/latest/ug/kubernetes-protection.html	DevOps Team
+HSM	https://catalog.us-east-1.prod.workshops.aws/workshops/c42dab14-4970-403f-b55d-4d03bda7ffb5/en-US	"https://aws.amazon.com/cloudhsm/features/#Security
+https://docs.aws.amazon.com/cloudhsm/latest/userguide/fips-validation.html"	DevOps Team
+HSM	Same as above	https://docs.aws.amazon.com/cloudhsm/latest/userguide/clusters.html	DevOps Team
+HSM	Same as above	https://docs.aws.amazon.com/cloudhsm/latest/userguide/manage-backups.html	DevOps Team
+HSM	Same as above	https://docs.aws.amazon.com/cloudhsm/latest/userguide/get-logs.html	DevOps Team
+Security Hub and Config	https://catalog.workshops.aws/security-hub/en-US	https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-custom-providers.html	DevOps Team
+Security Hub	https://catalog.us-east-1.prod.workshops.aws/workshops/dd2bea89-dc7a-4bda-966a-70b4ff6e90e0/en-US/3-detective-controls-config	https://aws.amazon.com/security-hub/features/?nc=sn&loc=2#Filtering.2C_grouping.2C_and_saved_searches_for_your_findings	DevOps Team
+Security Hub	Same as above	https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-insights.html	DevOps Team
+Security Hub	Same as above	"https://aws.amazon.com/security-hub/features/?nc=sn&loc=2#Automated_response.2C_remediation.2C_and_enrichment_actions_
+https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-cloudwatch-events.html"	DevOps Team
+Glacier	https://catalog.us-east-1.prod.workshops.aws/workshops/74237958-77c8-4e7f-a02f-ae201a04d759/en-US	https://docs.aws.amazon.com/amazonglacier/latest/dev/DataEncryption.html	DevOps Team
+Glacier	Same as above	"https://docs.aws.amazon.com/amazonglacier/latest/dev/introduction.html
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/lifecycle-transition-general-considerations.html
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html#sc-infreq-data-access"	DevOps Team
+Glacier	Same as above	"https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html#sc-infreq-data-access
+https://docs.aws.amazon.com/amazonglacier/latest/dev/data-retrieval-policy.html"	DevOps Team
+Xray	https://catalog.workshops.aws/observability/en-US/intro	"https://docs.aws.amazon.com/xray/latest/devguide/aws-xray.html
+https://aws.amazon.com/xray/features/#Server-_and_Client-side_latency_detection"	DevOps Team
+Xray	Same as above	"https://docs.aws.amazon.com/xray/latest/devguide/xray-console.html
+https://docs.aws.amazon.com/xray/latest/devguide/xray-console-servicemap.html
+https://docs.aws.amazon.com/xray/latest/devguide/xray-console-traces.html
+https://docs.aws.amazon.com/xray/latest/devguide/xray-console-analytics.html"	DevOps Team
+WAF	https://catalog.us-east-1.prod.workshops.aws/workshops/c2f03000-cf61-42a6-8e62-9eaf04907417/en-US/00-introduction	"https://aws.amazon.com/waf/
+https://aws.amazon.com/waf/features/"	DevOps Team
+Shield Standard		https://aws.amazon.com/shield/features/#AWS_Shield_Standard	DevOps Team
+Inspector	https://catalog.workshops.aws/inspector/en-US	"https://aws.amazon.com/inspector/features/?nc=sn&loc=2
+https://docs.aws.amazon.com/inspector/latest/user/what-is-inspector.html"	DevOps Team
+IAM/Identity Center	"https://catalog.us-east-1.prod.workshops.aws/workshops/8efd4edb-2b91-49fd-b1b8-3e3b5e71aa03/en-US/iam
+https://catalog.workshops.aws/iam-identity-center/en-US"	"https://aws.amazon.com/iam/
+https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html"	DevOps Team
+CloudFront	https://catalog.us-east-1.prod.workshops.aws/workshops/4557215e-2a5c-4522-a69b-8d058aba088c/en-US/basic-configuration/create-cloudfront-distribution	https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html	DevOps Team
+CloudFront		"https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudfront-supports-http-3-quic/
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/distribution-web-values-specify.html#DownloadDistValuesSupportedHTTPVersions"	DevOps Team
+CloudFront	https://catalog.workshops.aws/observability/en-US	"https://aws.amazon.com/cloudwatch/features/
+https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch-Agent-open-telemetry.html"	DevOps Team
+ECR	https://catalog.us-east-1.prod.workshops.aws/workshops/869f7eee-d3a2-490b-bf9a-ac90a8fb2d36/en-US	https://aws.amazon.com/ecr/features/	DevOps Team
+Control Tower, Resource Explorer and Config 	https://mng.workshop.aws/ssm/capability_hands-on_labs/explorer.html	"https://aws.amazon.com/config/features/
+https://aws.amazon.com/blogs/security/a-sneak-peek-at-the-governance-risk-and-compliance-sessions-for-aws-reinforce-2022/
+https://aws.amazon.com/resourceexplorer/features/
+https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-inventory.html
+https://docs.aws.amazon.com/config/latest/developerguide/resource-config-reference.html
+https://docs.aws.amazon.com/config/latest/developerguide/viewing-the-aws-config-dashboard.html
+https://docs.aws.amazon.com/config/latest/developerguide/notifications-for-AWS-Config.html
+https://docs.aws.amazon.com/audit-manager/latest/userguide/concepts.html"	DevOps Team
+Config	https://mng.workshop.aws/config.html	https://docs.aws.amazon.com/config/latest/developerguide/resource-config-reference.html	DevOps Team
+Config	Same as above	"https://docs.aws.amazon.com/solutions/latest/centralized-logging-with-opensearch/aws-config-logs.html
+https://docs.aws.amazon.com/config/latest/developerguide/manage-delivery-channel.html"	DevOps Team
+APIGateway	https://catalog.workshops.aws/apigateway/en-US	"https://aws.amazon.com/api-gateway/features/#Support_for_RESTful_APIs_and_WebSocket_APIs
+https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-caching.html
+https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-request-throttling.html"	DevOps Team
+Amplify	https://catalog.us-east-1.prod.workshops.aws/workshops/36375ad5-9091-4960-97dd-e82eb516f2c3/en-US	"https://aws.amazon.com/amplify/
+https://aws.amazon.com/amplify/faqs/?nc=sn&loc=6&dn=2
+https://aws.amazon.com/amplify/features/?nc=sn&loc=3&dn=5"	DevOps Team
+KMS	https://catalog.us-east-1.prod.workshops.aws/workshops/05f16f1a-0bbf-45a7-a304-4fcd7fca3d1f/en-US/getting-started	"https://aws.amazon.com/kms/features/
+https://aws.amazon.com/kms/features/#Custom_key_stores"	DevOps Team
+Account movement across Organization and application of Organization SCP to migrated Account	https://catalog.us-east-1.prod.workshops.aws/workshops/c6bdf8dc-d2b2-4dbd-b673-90836e954745/en-US		
+DMS, Native MySQL, Native PostgreSQL	https://docs.aws.amazon.com/dms/latest/sbs/chap-manageddatabases.html		
+			
+CodeCommit, CodePipeline, CodeDeploy, ECR, Blue-Green Deployments	"https://catalog.us-east-1.prod.workshops.aws/workshops/4b59b9fb-48b6-461c-9377-907b2e33c9df/en-US
+https://catalog.us-east-1.prod.workshops.aws/workshops/869f7eee-d3a2-490b-bf9a-ac90a8fb2d36/en-US"		
+CloudWatch Features and Xray Features	https://catalog.workshops.aws/observability/en-US/intro		
+	"https://catalog.us-east-1.prod.workshops.aws/workshops/2d357547-41c3-45c5-8d84-c401420a5fb3/en-US
+https://aws.amazon.com/solutions/implementations/landing-zone-accelerator-on-aws/"		
